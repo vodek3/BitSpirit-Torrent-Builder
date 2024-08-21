@@ -9,7 +9,7 @@ lanspirit.net
 Builder.exe 28.01.09 16:12
 https://rutracker.org/forum/viewtopic.php?t=3046
 
->------------ Builder.crk ------------<
+>------------ Builder.crk ------------
 ```
 ; CRACKER (WIN32 by .SVD.)
 ; https://forum.exetools.com/showthread.php?t=18773

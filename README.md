@@ -6,10 +6,10 @@ https://rutracker.wiki/Создание_торрента_при_помощи_Tor
 Last Torrent Builder in BitSpirit 3.3.3.167
 
 lanspirit.net
->------------ Builder.crk ------------<
 Builder.exe 28.01.09 16:12
 https://rutracker.org/forum/viewtopic.php?t=3046
 
+>------------ Builder.crk ------------<
 ```
 ; CRACKER (WIN32 by .SVD.)
 ; https://forum.exetools.com/showthread.php?t=18773

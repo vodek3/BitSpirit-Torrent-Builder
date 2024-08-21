@@ -6,7 +6,7 @@ https://web.archive.org/web/20100219090007/http://www.bitspirit.cc/en/index.php?
 www.lanspirit.net
 
 ## [**Как создать .torrent и разместить его на трекере? [Torrent Builder]**](https://rutracker.org/forum/viewtopic.php?t=3046)
-📝 Builder.exe [28.01.09 16:12]
+📝 Builder.exe [28.01.2009 16:12]
 
 **Создание .torrent файла**
 

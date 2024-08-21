@@ -1,7 +1,15 @@
 # Torrent Builder 3.2.2.12 BitSpirit 3.3.3.167 [Mar 22, 2009] - bsv3.3.3.167.EN.exe
 https://web.archive.org/web/20100219090007/http://www.bitspirit.cc/en/index.php?q=node/6
 
-[**Создание торрента при помощи Torrent Builder**](https://rutracker.wiki/Создание_торрента_при_помощи_Torrent_Builder)
+Last Torrent Builder in BitSpirit 3.3.3.167
+
+lanspirit.net
+
+Builder.exe 28.01.09 16:12
+https://rutracker.org/forum/viewtopic.php?t=3046
+
+
+## [**Создание торрента при помощи Torrent Builder**](https://rutracker.wiki/Создание_торрента_при_помощи_Torrent_Builder)
 
 # Шаг 1.	
 Шаг 1.
@@ -30,9 +38,7 @@ ${\textsf{\color{Brown}Папка должна быть подписана на 
 
 **Торрент-файл создан.**
 
-
-
-[**Как создать .torrent и разместить его на трекере? [Torrent Builder]**](https://rutracker.org/forum/viewtopic.php?t=3046)
+## [**Как создать .torrent и разместить его на трекере? [Torrent Builder]**](https://rutracker.org/forum/viewtopic.php?t=3046)
 **Создание .torrent файла**
 
 Запускаем Torrent Builder, добавляем файлы, которые хотим раздать и нажимаем **Make**
@@ -40,14 +46,11 @@ ${\textsf{\color{Brown}Папка должна быть подписана на 
 <a href="#"><img src="/Images/Torrent_Builder_04.png" width="500"</a>
 <br/>
 </p>
+Сохраняем получившийся торрент.
 
-Last Torrent Builder in BitSpirit 3.3.3.167
+Дальше - [Оформление раздачи на трекере](https://rutracker.org/forum/viewtopic.php?t=60115#oformlenie)
 
-lanspirit.net
-Builder.exe 28.01.09 16:12
-https://rutracker.org/forum/viewtopic.php?t=3046
-
->------------ Builder.crk ------------
+## Builder.crk
 ```
 ; CRACKER (WIN32 by .SVD.)
 ; https://forum.exetools.com/showthread.php?t=18773

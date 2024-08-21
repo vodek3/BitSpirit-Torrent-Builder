@@ -4,11 +4,11 @@ BitSpirit 3.3.3.167 [Mar 22, 2009] - bsv3.3.3.167.EN.exe
 https://web.archive.org/web/20100219090007/http://www.bitspirit.cc/en/index.php?q=node/6
 https://rutracker.wiki/Создание_торрента_при_помощи_Torrent_Builder
 
-Last Torrent Builder in BitSpirit 3.3.3.167
+Last version of Torrent Builder in BitSpirit 3.3.3.167
 
 www.lanspirit.net
 
-Builder.exe 28.01.09 16:12
+Builder.exe 28.01.2009 16:12
 https://rutracker.org/forum/viewtopic.php?t=3046
 
 >------------------------<

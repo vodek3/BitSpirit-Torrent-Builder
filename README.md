@@ -1,3 +1,5 @@
+
+
 # Torrent Builder 3.2.2.12 BitSpirit 3.3.3.167 [Mar 22, 2009] - bsv3.3.3.167.EN.exe
 https://web.archive.org/web/20100219090007/http://www.bitspirit.cc/en/index.php?q=node/6
 
@@ -6,7 +8,7 @@ Last Torrent Builder in BitSpirit 3.3.3.167
 www.lanspirit.net
 
 ## [**Как создать .torrent и разместить его на трекере? [Torrent Builder]**](https://rutracker.org/forum/viewtopic.php?t=3046)
-**Builder.exe 28.01.09 16:12**
+📝 **Builder.exe 28.01.09 16:12**
 
 **Создание .torrent файла**
 

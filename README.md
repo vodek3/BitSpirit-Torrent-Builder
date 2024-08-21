@@ -12,7 +12,7 @@ www.lanspirit.net
 
 Запускаем Torrent Builder, добавляем файлы, которые хотим раздать и нажимаем **Make**
 <p align="center">
-<a href="#"><img src="/Images/Torrent_Builder_04.png" width="500"</a>
+<a href="#"><img src="/Images/Torrent_Builder_00.png" width="500"</a>
 <br/>
 </p>
 Сохраняем получившийся торрент.

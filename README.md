@@ -3,7 +3,7 @@ https://web.archive.org/web/20100219090007/http://www.bitspirit.cc/en/index.php?
 
 Last Torrent Builder in BitSpirit 3.3.3.167
 
-lanspirit.net
+www.lanspirit.net
 
 Builder.exe 28.01.09 16:12
 https://rutracker.org/forum/viewtopic.php?t=3046

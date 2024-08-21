@@ -1,4 +1,3 @@
-# Welcome to StackEdit!
 # Torrent Builder 3.2.2.12 BitSpirit 3.3.3.167 [Mar 22, 2009] - bsv3.3.3.167.EN.exe
 https://web.archive.org/web/20100219090007/http://www.bitspirit.cc/en/index.php?q=node/6
 
@@ -7,20 +6,40 @@ https://web.archive.org/web/20100219090007/http://www.bitspirit.cc/en/index.php?
 # Шаг 1.	
 Шаг 1.
 Для создания торрента открываем программу и выбираем файл или папку, которые собираетесь раздавать: **File → Add File(s)** или **File → Add Folder** (зависит от того, что вы собираетесь раздавать) или нажимаем на те значки, которые показаны на скриншоте:
-Images\Torrent_Builder_01.png
-Папка должна быть подписана на английском языке.
+<p align="center">
+<a href="#"><img src="/Images/Torrent_Builder_01.png" width="500"</a>
+<br/>
+</p>
+
+${\textsf{\color{Brown}Папка должна быть подписана на английском языке}}$
 
 # Шаг 2.
 Шаг 2.
 После того как добавили файл, в графе **Piece Length** необходимо выбрать **16 MB (Piece Length - размер блоков)** (* *выбирайте так, чтобы торрент-файл получился меньше 500 kb* *) и нажать **Make**:
-Images\Torrent_Builder_02.png
+<p align="center">
+<a href="#"><img src="/Images/Torrent_Builder_02.png" width="500"</a>
+<br/>
+</p>
 
 # Шаг 3.
-Шаг 3.
 Теперь сохраняем торрент-файл в нужное место и указываем нужное название.
-Images\Torrent_Builder_03.png
+<p align="center">
+<a href="#"><img src="/Images/Torrent_Builder_03.png" width="500"</a>
+<br/>
+</p>
+
 **Торрент-файл создан.**
 
+
+
+[**Как создать .torrent и разместить его на трекере? [Torrent Builder]**](https://rutracker.org/forum/viewtopic.php?t=3046)
+**Создание .torrent файла**
+
+Запускаем Torrent Builder, добавляем файлы, которые хотим раздать и нажимаем **Make**
+<p align="center">
+<a href="#"><img src="/Images/Torrent_Builder_04.png" width="500"</a>
+<br/>
+</p>
 
 Last Torrent Builder in BitSpirit 3.3.3.167
 
